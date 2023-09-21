@@ -18,8 +18,7 @@
     <div align="center">
     <h3>
       hey there
-      <img src="![image](https://github.com/asrithaMulugoju/asrithaMulugoju/assets/76226345/7a970eb4-52f2-4bf8-82cb-9b452253395f)
-" width="30px"/>
+      <img src="👋" width="30px"/>
     </h3>
     </div>
     <div align="center">
