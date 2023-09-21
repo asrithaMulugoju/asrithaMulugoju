@@ -15,7 +15,7 @@
         </a>
       </div>
       <div id="username">
-        <img src="https://asrithaMulugoju.com/ghpvc/?username=asrithaMulugoju&style=flat-square&color=blue"            alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
       </div>
     </div>
     
