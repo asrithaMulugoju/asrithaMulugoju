@@ -52,5 +52,9 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=asrithaMulugoju
+[![GitHub Streak](https://streak-stats.demolab.com?user=asrithaMulugoju)](https://git.io/streak-stats)
   </body>
 </html>
