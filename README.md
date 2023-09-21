@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://github.com/asrithaMulugoju">
-          <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=build-passing-brightgreen" alt="GitHub Badge"/>
+          <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor="pink" alt="GitHub Badge"/>
         </a>
         <a href="https://twitter.com/AMulugoju">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
