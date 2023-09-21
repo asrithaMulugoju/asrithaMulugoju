@@ -35,7 +35,7 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
 
 - :zap: I solve problems on various platforms like GeeksforGeeks and Codechef.
 - :art: In my free time, I draw Mandala, Zentangle and Doodle Arts.
-- :nature: I like to do planting and gardening. 
+- :potted_plant: I like to do planting and gardening. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asrithaMulugoju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asritha-mulugoju-b68a8a1b4/)
 ---
