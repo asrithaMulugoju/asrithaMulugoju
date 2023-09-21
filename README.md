@@ -33,7 +33,7 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I solve problems on various platforms like GeeksforGeeks and Codechef.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asrithaMulugoju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asritha-mulugoju-b68a8a1b4/)
 ---
