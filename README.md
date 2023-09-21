@@ -18,7 +18,8 @@
     <div align="center">
     <h3>
       hey there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <img src="![image](https://github.com/asrithaMulugoju/asrithaMulugoju/assets/76226345/7a970eb4-52f2-4bf8-82cb-9b452253395f)
+" width="30px"/>
     </h3>
     </div>
     <div align="center">
