@@ -18,7 +18,7 @@
     <div align="center">
     <h3>
       hey there
-      <img src="👋" width="30px"/>
+      <a href="#">👋</a>
     </h3>
     </div>
     <div align="center">
