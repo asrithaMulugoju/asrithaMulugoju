@@ -54,7 +54,9 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
 </div>
 ---
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=asrithaMulugoju
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asrithaMulugoju"/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=asrithaMulugoju)](https://git.io/streak-stats)
-  </body>
+</div>  
+</body>
 </html>
