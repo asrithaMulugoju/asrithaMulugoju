@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
     </div>
     <div>
-      <img <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
  width="100"/>
     </div>
   </body>
