@@ -15,7 +15,7 @@
         </a>
       </div>
       <div>
-        <img src="https://asrithaMulugoju.com/ghpvc/?username=asrithaMulugoju&style=flat-square&color=blue" alt=""/>
+        <img src="https://ghpvc/?username=asrithaMulugoju&style=flat-square&color=blue" alt=""/>
       </div>
     </div>
     
