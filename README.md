@@ -39,7 +39,7 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-asrithaMulugoju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asritha-mulugoju-b68a8a1b4/)
 ---
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,6 +52,12 @@ I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=asrithaMulugoju
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asrithaMulugoju&theme=dark&background=000000)](https://git.io/streak-stats)
+Here’s a preview with itsZed0 as the username.
 
   </body>
 </html>
