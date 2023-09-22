@@ -17,8 +17,7 @@
     </div>
     <div align="center">
     <h3>
-      hey there
-      <a href="#">👋</a>
+      hey there👋
     </h3>
     </div>
     <div align="center">
