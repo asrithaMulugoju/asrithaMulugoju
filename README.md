@@ -30,7 +30,7 @@
 I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring web technology.
 
 - :zap: I solve problems on various platforms like GeeksforGeeks and Codechef.
 - :art: In my free time, I draw Mandala, Zentangle and Doodle Arts.
